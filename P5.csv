@@ -1,4 +1,4 @@
-Name,LatinName,HardinessUSDA,EdibilityRating,MedicinalRating,OtherUsesRating
+Name5,LatinName5,HardinessUSDA5,EdibilityRating5,MedicinalRating5,OtherUsesRating5
 Indian Abelia,Abelia triflora,5-9,0,0,1
 Okra,Abelmoschus esculentus,5-11,4,3,2
 "Silver Fir, Christmas Tree Fir, European Silver Fir, Silver",Abies alba,5-8,2,3,4
@@ -229,7 +229,7 @@ Pacific serviceberry,Amelanchier interior,5-9,3,0,
 "Snowy Mespilus, Dwarf Garden Serviceberry",Amelanchier ovalis,5-7,2,0,
 ,Amelanchier ovalis integrifolia,5-9,2,0,
 ,Amelanchier parviflora,4-8,2,0,
-"Roundleaf Serviceberry, Gaspé serviceberry",Amelanchier sanguinea,4-8,3,0,
+"Roundleaf Serviceberry, GaspÃ© serviceberry",Amelanchier sanguinea,4-8,3,0,
 ,Amelanchier spicata,4-8,3,0,
 "Quebec Berry, Running serviceberry",Amelanchier stolonifera,4-8,5,1,0
 "Utah Serviceberry, Coville's serviceberry",Amelanchier utahensis,3-7,3,1,2
@@ -419,7 +419,7 @@ Chinese Asparagus,Asparagus cochinchinensis,6-9,3,3,
 Squinancy Wort,Asperula cynanchica,4-8,0,1,
 Dyer's Woodruff,Asperula tinctoria,4-8,0,0,
 "King's Spear, Yellow Asphodel, Jacob's Rod",Asphodeline lutea,6-9,4,0,2
-"Asphodel, Gamón-blanco",Asphodelus albus,5-9,2,1,
+"Asphodel, GamÃ³n-blanco",Asphodelus albus,5-9,2,1,
 Black Spleenwort,Asplenium adiantum-nigrum,5-9,0,2,
 "Wall Rue, Lance asplenium",Asplenium ruta-muraria,5-9,0,2,
 Hart's Tongue Fern,Asplenium scolopendrium,4-8,0,2,
@@ -1286,7 +1286,7 @@ Foxtail Lily,Eremurus stenophyllus aurantiacus,5-10,1,0,
 "Darley Dale Heath, Cape Heath, Molten Silver Heath, Heather",Erica x darleyensis,6-9,0,0,2
 "Annual Fleabane, Eastern daisy fleabane",Erigeron annuus,3-8,1,0,0
 "Beach Aster, Seaside fleabane",Erigeron glaucus,3-7,0,0,
-"Robin’s plantain, blue spring daisy, hairy fleabane",Erigeron pulchellus,4-8,0,0,3
+"RobinÂ’s plantain, blue spring daisy, hairy fleabane",Erigeron pulchellus,4-8,0,0,3
 "Crispleaf Buckwheat, Las Vegas wild buckwheat",Eriogonum corymbosum,3-7,1,1,
 "Antelope Sage, James' buckwheat",Eriogonum jamesii,4-8,0,2,
 "Slender Buckwheat, Alpine slender buckwheat, San Bernardino buckwheat, Johnston's buckwheat, Panamin",Eriogonum microthecum,5-9,1,1,
@@ -2162,7 +2162,7 @@ Mountain Holly,Nemopanthus mucronatus,4-8,1,1,
 ,Nepeta raphanorrhiza,4-8,2,0,
 "Tobacco, Jasmine tobacco, Nicotiana, Jasmine Tobacco, Ornamental Tobacco, Flowering Tobacco",Nicotiana alata,6-9,0,0,3
 ,Nothofagus betuloides,6-9,0,0,
-"Roblé, Roble beech",Nothofagus obliqua,6-9,0,0,
+"RoblÃ©, Roble beech",Nothofagus obliqua,6-9,0,0,
 Rauli,Nothofagus procera,6-9,0,0,
 Lenga,Nothofagus pumilio,6-9,1,0,
 Slender false garlic,Nothoscordum gracile,6-9,2,0,
@@ -2408,7 +2408,7 @@ Lodgepole Pine,Pinus contorta latifolia,6-9,0,0,
 Cerro Potosi Pinyon,Pinus culminicola,6-9,2,2,
 Japanese Red Pine,Pinus densiflora,3-7,2,2,
 Short-Leaf Pine,Pinus echinata,6-8,2,2,
-"Rocky Mountain Piñon, Twoneedle pinyon, Nut Pine, Pinyon Pine, Rocky Mountain Pinyon Pine, Singlelea",Pinus edulis,5-8,4,2,3
+"Rocky Mountain PiÃ±on, Twoneedle pinyon, Nut Pine, Pinyon Pine, Rocky Mountain Pinyon Pine, Singlelea",Pinus edulis,5-8,4,2,3
 "Limber Pine, Rocky Mountain White Pine",Pinus flexilis,4-7,3,2,3
 Chilghoza Pine,Pinus gerardiana,6-9,3,2,3
 ,Pinus henryi,6-9,2,2,
@@ -2416,7 +2416,7 @@ Jeffrey Pine,Pinus jeffreyi,5-8,3,2,3
 "Korean Nut Pine, Chinese pinenut",Pinus koraiensis,4-7,4,2,3
 Sugar Pine,Pinus lambertiana,6-9,3,2,
 Chinese Red Pine,Pinus massoniana,6-9,2,2,
-"Single Leaf Piñon, Single Leaf PinyonPine, Stone Pine, Pine Pinyon",Pinus monophylla,6-8,4,2,5
+"Single Leaf PiÃ±on, Single Leaf PinyonPine, Stone Pine, Pine Pinyon",Pinus monophylla,6-8,4,2,5
 Western White Pine,Pinus monticola,4-8,2,2,
 "Dwarf Mountain Pine, Mugo pine, Mountain Pine",Pinus mugo,2-7,1,2,
 "Austrian Pine, Black Pine",Pinus nigra,3-7,1,2,
@@ -2425,7 +2425,7 @@ Corsican Pine,Pinus nigra laricio,5-9,1,2,0
 "Ponderosa Pine, Washoe pine",Pinus ponderosa,4-8,3,2,
 Dwarf Siberian Pine,Pinus pumila,3-7,3,2,3
 "Prickle Pine, Table Mountain pine",Pinus pungens,5-9,1,2,
-"Parry Piñon, Parry's Pinyon Pine, Four-leaved Pinyon",Pinus quadrifolia,5-8,4,2,
+"Parry PiÃ±on, Parry's Pinyon Pine, Four-leaved Pinyon",Pinus quadrifolia,5-8,4,2,
 Monterey Pine,Pinus radiata,3-11,1,2,3
 Red Pine,Pinus resinosa,3-7,1,2,
 "Northern Pitch Pine, Pitch pine",Pinus rigida,4-7,1,2,
@@ -2559,7 +2559,7 @@ Apricot,Prunus armeniaca,5-7,4,3,4
 Manchurian apricot,Prunus armeniaca mandschurica,3-9,4,3,3
 "Wild Cherry, Sweet cherry",Prunus avium,3-7,4,2,4
 Western Sand Cherry,Prunus besseyi,3-6,4,1,2
-Briançon Apricot,Prunus brigantina,6-9,4,1,
+BrianÃ§on Apricot,Prunus brigantina,6-9,4,1,
 ,Prunus buergeriana,4-8,2,1,
 Greyleaf Cherry,Prunus canescens,5-9,3,1,2
 "Cherry Plum, Myrobalan Plum, Newport Cherry Plum, Pissard Plum",Prunus cerasifera,5-8,4,1,3
@@ -2706,7 +2706,7 @@ Willow-Leaved Pear,Pyrus salicifolia,4-8,2,0,
 ,Pyrus ussuriensis ovoidea,4-8,3,0,0
 Le Conte Pear,Pyrus x lecontei,5-9,3,0,
 ,Pyrus x salvifolia,5-9,2,0,
-Schuette's oak,Quercus × schuettei,4-8,3,0,3
+Schuette's oak,Quercus Ã— schuettei,4-8,3,0,3
 Japanese Evergreen Oak,Quercus acuta,6-9,2,2,
 Sawthorn Oak,Quercus acutissima,5-9,2,2,3
 "White Oak, Hybrid oak",Quercus alba,3-9,3,2,4
@@ -2775,7 +2775,7 @@ Japanese buckthorn,Rhamnus japonica,4-8,1,1,
 ,Rhamnus leptophyllus,5-9,1,0,
 "Avignon Berry, Rock buckthorn",Rhamnus saxatilis,5-9,0,0,
 Dyer's Buckthorn,Rhamnus saxatilis tinctorius,5-9,0,0,
-Garden Rhubarb,Rheum × hybridum,3-8,4,3,1
+Garden Rhubarb,Rheum Ã— hybridum,3-8,4,3,1
 Himalayan Rhubarb,Rheum australe,5-9,3,3,2
 ,Rheum compactum,5-9,2,0,
 Sikkim Rhubarb,Rheum nobile,6-9,3,2,1
@@ -3046,7 +3046,7 @@ Sitka Willow,Salix sitchensis,4-8,1,2,4
 "Almond-Leaved Willow, Almond willow",Salix triandra,4-8,1,2,3
 Osier. Basket Willow,Salix viminalis,4-8,1,2,3
 ,Salix x mollisima hippophaeifolia,5-9,1,2,3
-Salix × mollisima var. undulata,Salix x mollisima undulata,5-9,1,2,3
+Salix Ã— mollisima var. undulata,Salix x mollisima undulata,5-9,1,2,3
 "Green-leaved willow, Red osier",Salix x rubra,4-8,1,2,3
 "Silky-leaved Osier, Smith Willow",Salix x smithiana,4-8,1,2,3
 Purple Sage,Salvia carnosa,6-9,1,2,
@@ -3667,7 +3667,7 @@ Netted chain fern,Woodwardia areolata,4-9,0,0,3
 Virginia Chain Fern,Woodwardia virginica,3-10,0,0,3
 "Mulesears Wyethia, Mule-ears",Wyethia amplexicaulis,4-8,3,1,
 Aronia x mountain ash,x Sorbaronia hybrid,3-8,3,0,2
-Haw x mountain ash,x Sorbo­crataegus hybrid,3-8,5,0,2
+Haw x mountain ash,x SorboÂ­crataegus hybrid,3-8,5,0,2
 Pear x mountain ash,x Sorbopyrus hybrid,3-8,4,0,2
 Spiny Cocklebur,Xanthium spinosum,6-9,0,1,0
 "Cocklebur, Rough cocklebur, Canada cocklebur",Xanthium strumarium,6-9,1,3,0
